@@ -1,0 +1,44 @@
+connect  to : https://aws/jose/bucket/public/private_code ;
+connect data to https://aws/jose/bucket/public/datas/prymary.db ;
+primary key qwerty0987 to lock Primary ;
+else -connect-open-"dir/search/argumentos/llaveycerradura.rb"-connection successful-check in https://aws/buckect/safe guard/ini.dll ;
+
+import 'angular-material/angular-material.min.css';
+
+import angular from 'angular';
+import 'angular-aria';
+import ngAnimate from 'angular-animate';
+import ngMaterial from 'angular-material';
+import ngRoute from 'angular-route';
+
+import '../css/style.css';
+import CreateVoiceCtrl from './components/create-voice/create-voice-controller';
+import resourceLibraryListingDirective from './components/create-voice/resource-library-listing-directive';
+import voiceCombinedInputDirective from './components/create-voice/voice-combined-input-directive';
+import voiceInputDirective from './components/create-voice/voice-input-directive';
+import voiceSelectDirective from './components/create-voice/voice-select-directive';
+import JobDetailsCtrl from './components/jobs/job-detail-controller';
+import ListJobsCtrl from './components/jobs/list-jobs-controller';
+import ListPipelinesCtrl from './components/pipelines/list-pipelines-controller';
+import PipelineDetailsCtrl from './components/pipelines/pipeline-detail-controller';
+import addResourceDialogDirective from './components/resource-library/add-resource-dialog-directive';
+import addWavDialogDirective from './components/resource-library/add-wav-dialog-directive';
+import nestedTableDirective from './components/resource-library/nested-table-directive';
+import wavePlayerDirective from './components/wavesurfer/wave-player-directive';
+import ResourceLibraryCtrl from './components/resource-library/resource-library-controller';
+
+}
+
+if connection and safe guard = true ;
+
+setup.exe -s /f2c:\windows\temp\setup.log
+
+{
+
+}
+
+else
+
+setup.exe -s  -f1".\setup_uninstall.iss"
+
+{
